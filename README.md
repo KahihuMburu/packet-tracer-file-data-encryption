@@ -123,9 +123,9 @@ The credentials were successfully recovered and used to authenticate to the BR S
 
 # Evidence
 
-![Mary encrypted credentials](evidence/01-mary-encrypted-credentials.png)
+![Mary encrypted credentials](mary-encrypted-credentials-file.png)
 
-![Mary credentials decrypted](evidence/02-mary-credentials-decrypted.png)
+![Mary credentials decrypted](mary-credentials-decrypted.png)
 
 Credentials are intentionally redacted from this public repository.
 
@@ -157,9 +157,9 @@ The file was successfully transferred to the BR Server.
 
 # Evidence
 
-![Encrypted customer data](evidence/03-encrypted-client-data.png)
+![Encrypted customer data](encrypted-client-data.png)
 
-![FTP upload](evidence/04-ftp-upload.png)
+![FTP upload](ftp-upload.png)
 
 ---
 
@@ -177,9 +177,9 @@ The recovered credentials allowed Bob to authenticate to the FTP server.
 
 # Evidence
 
-![Bob encrypted credentials](evidence/05-bob-encrypted-credentials.png)
+![Bob encrypted credentials](Bob-encrypted-credentials.png)
 
-![Bob credentials decrypted](evidence/06-bob-credentials-decrypted.png)
+![Bob credentials decrypted](Bob-credentials-decrypted.png)
 
 Credentials are intentionally redacted from the public repository.
 
@@ -206,7 +206,7 @@ The downloaded file remained encrypted.
 
 # Evidence
 
-![FTP download](evidence/07-ftp-download.png)
+![FTP download](07-ftp-download.png)
 
 
 
@@ -230,9 +230,9 @@ clientinfo.txt
 
 # Evidence
 
-![Decryption key](evidence/08-decryption-key.png)
+![Decryption key](decryption-key.png)
 
-![Decrypted customer information](evidence/09-decrypted-client-data.png)
+![Decrypted customer information](decrypted-client-data.png)
 
 Sensitive credentials, keys, and customer information have been redacted from the public portfolio.
 
